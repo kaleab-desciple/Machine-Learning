@@ -40,7 +40,7 @@ Provide details about:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [repository URL]
+    git clone repository URL]](https://github.com/kaleab-desciple/Machine-Learning.git
     cd Model-Training
     ```
 
@@ -52,15 +52,6 @@ Provide details about:
     venv\Scripts\activate  # On Windows
     ```
 
-3.  **Install the required dependencies:**
-
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    (Create a `requirements.txt` file using `pip freeze > requirements.txt` after installing your libraries)
-
-    Example `requirements.txt`:
 
     ```
     scikit-learn
